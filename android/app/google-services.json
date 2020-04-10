@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444040544482",
+    "firebase_url": "https://child-activity.firebaseio.com",
+    "project_id": "child-activity",
+    "storage_bucket": "child-activity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444040544482:android:cc98bcff66e1c90ca9debb",
+        "android_client_info": {
+          "package_name": "co.appbrewery.baby_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444040544482-qu59gv9anl6jo7cednfbv73iec4ntn70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_yTqKfhLQGR4jJOttiA4agOGN-s8YD1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444040544482-qu59gv9anl6jo7cednfbv73iec4ntn70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
